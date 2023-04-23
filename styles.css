@@ -22,7 +22,7 @@ body {
 
 .card {
     background-color: white;
-    padding: 17px;
+    padding: 15px;
     border-radius: 18px;
     text-align: center;
     margin: 0 1rem;
@@ -44,14 +44,4 @@ body {
 
 .text p {
     color: hsl(220, 15%, 55%);
-}
-
-.attribution {
-    font-size: 11px;
-    text-align: center;
-    margin-top: 2rem;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
 }
